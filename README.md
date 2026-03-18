@@ -36,6 +36,9 @@ A template demonstrating scalable Flutter architecture patterns for production a
 ### [Convo Chat](https://github.com/realmeylisdev/convo_chat)
 Real-time chat application built with Flutter and modern messaging patterns.
 
+### [Dart Nostr](https://github.com/realmeylisdev/dart_nostr)
+A comprehensive Dart library implementing 75+ Nostr protocol NIPs.
+
 ---
 
 ## 🎯 Currently
