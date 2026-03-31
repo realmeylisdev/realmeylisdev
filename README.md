@@ -2,7 +2,7 @@
 
 **Flutter Engineer** from Ashgabat, Turkmenistan
 
-Building mobile apps with clean architecture and great UX.
+Building decentralized mobile experiences with clean architecture and great UX.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meylis-annagurbanov-9144371a8)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/m_annagurbanov)
