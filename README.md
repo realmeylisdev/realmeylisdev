@@ -1,4 +1,4 @@
-# Hi, I'm Meylis Annagurbanov 👋
+# Hi, I'm Meylis 👋
 
 **Flutter Engineer** from Ashgabat, Turkmenistan
 
