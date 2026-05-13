@@ -62,6 +62,8 @@ Real-time chat application built with Flutter and modern messaging patterns.
 
 ---
 
+<p><a href="https://community.vaunt.dev/board/realmeylisdev/achievements"><img src="https://api.vaunt.dev/v1/github/entities/realmeylisdev/achievements/8d50131a-5390-4930-bf76-358636f52f0b?format=svg&style=raw" width="300"/></a></p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=realmeylisdev&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
