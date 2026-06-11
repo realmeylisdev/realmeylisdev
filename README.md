@@ -5,7 +5,7 @@
 Building decentralized mobile experiences with clean architecture and great UX.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meylis-annagurbanov-9144371a8)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/m_annagurbanov)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/m_annagurbanov)
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=__flutterian__&color=5865F2&style=flat&logo=discord&logoColor=white)](https://discord.com/users/996373562036338718)
 
 ---
