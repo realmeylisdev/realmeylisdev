@@ -128,43 +128,6 @@ Smart **time-zone converter** app for Flutter — built with Very Good CLI and c
 
 ---
 
-### 🌟 Open-Source Contributions
-
-Selected projects with **verified merged pull requests** across the Dart/Flutter ecosystem:
-
-| Project | What it is | ★ Stars | Merged PRs |
-|---|---|--:|--:|
-| 🏆 **[flutter/flutter](https://github.com/flutter/flutter)** | The Flutter framework itself | 177k | **4** |
-| [flutter-stripe/flutter_stripe](https://github.com/flutter-stripe/flutter_stripe) | Stripe payments for Flutter | 1.1k | 10 |
-| [serverpod/serverpod](https://github.com/serverpod/serverpod) | Dart backend / app server | 3.2k | 5 |
-| [VeryGoodOpenSource/very_good_templates](https://github.com/VeryGoodOpenSource/very_good_templates) | Production-grade project templates | 166 | 5 |
-| [VeryGoodOpenSource/very_good_cli](https://github.com/VeryGoodOpenSource/very_good_cli) | Scaffolding CLI for Flutter | 2.4k | 4 |
-| [felangel/bloc](https://github.com/felangel/bloc) | State management for Dart | 12.5k | 2 |
-| [schultek/jaspr](https://github.com/schultek/jaspr) | Dart web framework | 2.4k | 2 |
-| [VB-CORE/hatayi_yasat](https://github.com/VB-CORE/hatayi_yasat) | Earthquake-relief app (live on App Store / Play) | 57 | 1 |
-
-📈 Lifetime: **473 merged PRs** · **676 commits** · contributed to **27 external repos** · active every year since **2019**.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmeylisdev&theme=tokyonight&layout=donut&exclude_repo=&langs_count=8&hide_border=true&title_color=58A6FF&card_width=320" alt="Top languages used by realmeylisdev" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=realmeylisdev&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak stats for realmeylisdev" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realmeylisdev&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&bg_color=1A1B27&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution activity graph for realmeylisdev" />
-
-</div>
-
----
-
 ### 🧊 Contribution Visuals
 
 <div align="center">
