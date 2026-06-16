@@ -23,7 +23,6 @@ I ship a real video platform every day at [divine.video](https://divine.video), 
 | 🛠️ **What I build** | Cross-platform **video apps & pipelines** at [divine.video](https://divine.video), custom **rendering & animation** engines, and **native / FFI plugins** (C++/WinRT, Rust bridge). |
 | ⚙️ **What I use** | Flutter & Dart · FFI / native interop · Firebase · Supabase · Serverpod · Bloc / Riverpod / Provider · REST / GraphQL / WebSocket · the Nostr protocol · Clean Architecture / DDD · CI/CD (Codemagic, Fastlane). |
 | 📚 **What I'm learning** | Going deep on **video & rendering pipelines**, low-level **FFI / native** (C++/WinRT, Rust), and **AI engineering** (Claude, agents) — building toward staff-level Flutter/systems work. |
-| 📫 **Where to reach me** | [team@divine.video](mailto:team@divine.video) — open to work. Links below 👇 |
 
 <p align="left">
   <a href="mailto:team@divine.video"><img src="https://img.shields.io/badge/Email-team%40divine.video-58A6FF?style=flat&logo=gmail&logoColor=white&labelColor=1A1B27" alt="Email team@divine.video" /></a>
