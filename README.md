@@ -151,7 +151,6 @@ Selected projects with **verified merged pull requests** across the Dart/Flutter
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=realmeylisdev&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&rank_icon=github&hide_border=true&title_color=58A6FF&icon_color=58A6FF&border_radius=10" alt="Meylis Annagurbanov's GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmeylisdev&theme=tokyonight&layout=donut&exclude_repo=&langs_count=8&hide_border=true&title_color=58A6FF&card_width=320" alt="Top languages used by realmeylisdev" />
 
 <br/><br/>
@@ -161,10 +160,6 @@ Selected projects with **verified merged pull requests** across the Dart/Flutter
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=realmeylisdev&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&bg_color=1A1B27&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution activity graph for realmeylisdev" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=realmeylisdev&theme=tokyonight&column=7&row=1&margin-w=8&margin-h=8&no-frame=true&no-bg=false" alt="GitHub profile trophies for realmeylisdev" />
 
 </div>
 
