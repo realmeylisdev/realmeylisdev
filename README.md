@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Meylis+Annagurbanov;Flutter+Engineer+%40+divine.video;Video+%E2%80%A2+Rendering+%E2%80%A2+FFI%2FNative+%E2%80%A2+AI+Engineering" alt="Meylis Annagurbanov — Flutter Engineer @ divine.video — Video, Rendering, FFI/Native, AI Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Meylis+Annagurbanov;Flutter+Engineer;Video+%E2%80%A2+Rendering+%E2%80%A2+FFI%2FNative+%E2%80%A2+AI+Engineering" alt="Meylis Annagurbanov — Flutter Engineer — Video, Rendering, FFI/Native, AI Engineering" />
 
 <p>
-  <strong>Flutter Engineer</strong> · <a href="https://divine.video"><strong>@divinevideo</strong></a> · 📍 Ashgabat, Turkmenistan 🇹🇲
+  <strong>Flutter Engineer</strong> · 📍 Ashgabat, Turkmenistan 🇹🇲
 </p>
 
 <p><i>I build production video apps and push Flutter past its limits — custom rendering, native FFI, and AI tooling.</i></p>
@@ -16,17 +16,14 @@
 
 ### 👤 About
 
-I ship a real video platform every day at [divine.video](https://divine.video), and I treat every layer below the widget tree as fair game. Day to day that's production Flutter on a live product; the rest of the time it's custom rendering, native interop, and protocol work — published as open-source libraries on pub.dev and patches merged into the Flutter framework itself.
+I build and ship a production video platform, and I treat every layer below the widget tree as fair game. Day to day that's production Flutter on a live product; the rest of the time it's custom rendering, native interop, and protocol work — published as open-source libraries on pub.dev and patches merged into the Flutter framework itself.
 
 | | |
 |---|---|
-| 🛠️ **What I build** | Cross-platform **video apps & pipelines** at [divine.video](https://divine.video), custom **rendering & animation** engines, and **native / FFI plugins** (C++/WinRT, Rust bridge). |
 | ⚙️ **What I use** | Flutter & Dart · FFI / native interop · Firebase · Supabase · Serverpod · Bloc / Riverpod / Provider · REST / GraphQL / WebSocket · the Nostr protocol · Clean Architecture / DDD · CI/CD (Codemagic, Fastlane). |
 | 📚 **What I'm learning** | Going deep on **video & rendering pipelines**, low-level **FFI / native** (C++/WinRT, Rust), and **AI engineering** (Claude, agents) — building toward staff-level Flutter/systems work. |
 
 <p align="left">
-  <a href="mailto:team@divine.video"><img src="https://img.shields.io/badge/Email-team%40divine.video-58A6FF?style=flat&logo=gmail&logoColor=white&labelColor=1A1B27" alt="Email team@divine.video" /></a>
-  <a href="https://divine.video"><img src="https://img.shields.io/badge/Website-divine.video-58A6FF?style=flat&logo=googlechrome&logoColor=white&labelColor=1A1B27" alt="divine.video website" /></a>
   <a href="https://x.com/m_annagurbanov"><img src="https://img.shields.io/badge/X-%40m__annagurbanov-58A6FF?style=flat&logo=x&logoColor=white&labelColor=1A1B27" alt="X / Twitter @m_annagurbanov" /></a>
   <a href="https://linkedin.com/in/meylis-annagurbanov-9144371a8"><img src="https://img.shields.io/badge/LinkedIn-Meylis%20Annagurbanov-58A6FF?style=flat&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn profile" /></a>
   <a href="https://t.me/gitpushit"><img src="https://img.shields.io/badge/Telegram-%40gitpushit-58A6FF?style=flat&logo=telegram&logoColor=white&labelColor=1A1B27" alt="Telegram @gitpushit" /></a>
@@ -146,8 +143,6 @@ Selected projects with **verified merged pull requests** across the Dart/Flutter
 | [schultek/jaspr](https://github.com/schultek/jaspr) | Dart web framework | 2.4k | 2 |
 | [VB-CORE/hatayi_yasat](https://github.com/VB-CORE/hatayi_yasat) | Earthquake-relief app (live on App Store / Play) | 57 | 1 |
 
-> **Day-job production output:** **435 merged PRs** to [divinevideo/divine-mobile](https://github.com/divinevideo/divine-mobile) (255★) and **3** to [divine-web](https://github.com/divinevideo/divine-web) (43★) — the engineering behind divine.video.
-
 📈 Lifetime: **473 merged PRs** · **676 commits** · contributed to **27 external repos** · active every year since **2019**.
 
 ---
@@ -192,5 +187,5 @@ Selected projects with **verified merged pull requests** across the Dart/Flutter
 <div align="center">
   <i>Building toward world-class video, rendering & systems engineering — one merged PR at a time.</i>
   <br/><br/>
-  Open to staff-level Flutter / video / systems work — <a href="mailto:team@divine.video">team@divine.video</a> · <a href="https://x.com/m_annagurbanov">X</a> · <a href="https://linkedin.com/in/meylis-annagurbanov-9144371a8">LinkedIn</a> · <a href="https://t.me/gitpushit">Telegram</a>
+  Open to staff-level Flutter / video / systems work — <a href="https://x.com/m_annagurbanov">X</a> · <a href="https://linkedin.com/in/meylis-annagurbanov-9144371a8">LinkedIn</a> · <a href="https://t.me/gitpushit">Telegram</a>
 </div>
