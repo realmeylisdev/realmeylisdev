@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake
+        id: snake
+        # GitHub GraphQL rejects this account's 1-year contribution query with
+        # RESOURCE_LIMITS_EXCEEDED (contributions span too many repos/orgs), and
+        # Platane/snk exposes no way to chunk it. Tolerate the failure so the
+        # daily run stays green; the last-good SVG on the output branch is kept.
+        continue-on-error: true
         uses: Platane/snk@v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -19,6 +25,9 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
+        # Only publish when generation succeeded, so a failed run never
+        # overwrites the existing SVGs with empty output.
+        if: steps.snake.outcome == 'success'
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
