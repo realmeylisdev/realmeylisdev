@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Meylis+Annagurbanov;Flutter+Engineer;Video+%E2%80%A2+Rendering+%E2%80%A2+FFI%2FNative+%E2%80%A2+AI+Engineering" alt="Meylis Annagurbanov — Flutter Engineer — Video, Rendering, FFI/Native, AI Engineering" />
 
 <p>
-  <strong>Flutter Engineer</strong> · 📍 Ashgabat, Turkmenistan 🇹🇲
+  <strong>Flutter Engineer</strong> · 📍 Ashgabat
 </p>
 
 <p><i>I build production video apps and push Flutter past its limits — custom rendering, native FFI, and AI tooling.</i></p>
