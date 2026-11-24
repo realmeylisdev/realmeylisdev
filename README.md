@@ -142,5 +142,5 @@ Smart **time-zone converter** app for Flutter — built with Very Good CLI and c
 <div align="center">
   <i>Building toward world-class video, rendering & systems engineering — one merged PR at a time.</i>
   <br/><br/>
-  Open to staff-level Flutter / video / systems work — <a href="https://x.com/m_annagurbanov">X</a> · <a href="https://linkedin.com/in/meylis-annagurbanov-9144371a8">LinkedIn</a> · <a href="https://t.me/gitpushit">Telegram</a>
+  <b>Hiring a Flutter engineer?</b> I'm open to new roles — let's talk: <a href="https://x.com/m_annagurbanov">X</a> · <a href="https://linkedin.com/in/meylis-annagurbanov-9144371a8">LinkedIn</a> · <a href="https://t.me/gitpushit">Telegram</a>
 </div>
